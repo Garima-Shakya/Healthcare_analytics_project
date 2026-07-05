@@ -1,4 +1,4 @@
-# 🏥 Healthcare Data Analytics Portfolio
+#  Healthcare Data Analytics Portfolio
 
 ## Overview
 
