@@ -57,7 +57,6 @@ Healthcare-Data-Analytics/
     │   ├── billing.csv
     │   ├── department.csv
     │   ├── disease.csv
-    │   ├── doctor.csv
     │   ├── patient.csv
     │   ├── patient_insurance.csv
     │   ├── insurance_provider.csv
@@ -125,7 +124,6 @@ Hospital Management System Dataset
 - Billing
 - Department
 - Disease / Medical Conditions
-- Doctor
 - Patient
 - Ward
 - Patient Insurance
