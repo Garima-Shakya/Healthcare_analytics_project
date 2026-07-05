@@ -76,7 +76,7 @@ Healthcare-Data-Analytics/
 
 | Project | Objective | Dataset | Tools | Status |
 |----------|-----------|----------|-------|--------|
-| Hospital Executive Dashboard | Analyze hospital operational and financial performance through interactive reporting | Hospital Management Dataset | Excel, Power Query, Power Pivot, Pivot Tables, Pivot Charts | Completed |
+| Hospital HMIS Analysis | Analyze hospital operational and financial performance through interactive reporting | Hospital Management Dataset | Excel, Power Query, Power Pivot, Pivot Tables, Pivot Charts | Completed |
 
 ---
 
