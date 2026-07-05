@@ -47,9 +47,9 @@ Healthcare-Data-Analytics/
 │
 ├── README.md
 │
-└── Hospital Executive Dashboard/
+└── Hospital HMIS Analysis/
     │
-    ├── Dashboard.xlsx
+    ├── Hospital_HMIS_Analysis_Project.xlsx
     ├── Hospital_Executive_Dashboard.pdf
     │
     ├── Dataset/
@@ -63,13 +63,11 @@ Healthcare-Data-Analytics/
     │   └── ward.csv
     │
     ├── Screenshots/
-    │   ├── dashboard.png
-    │   ├── data_model.png
-    │   ├── power_query.png
-    │   └── executive_report.png
-    │
-    └── Documentation/
-        └── Project_Summary.pdf
+        ├── dashboard.png
+        ├── data_model.png
+        ├── power_query.png
+        └── executive_report.png
+    
 ```
 
 ---
