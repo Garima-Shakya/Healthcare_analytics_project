@@ -50,7 +50,6 @@ Healthcare-Data-Analytics/
 └── Hospital HMIS Analysis/
     │
     ├── Hospital_HMIS_Analysis_Project.xlsx
-    ├── Hospital_Executive_Dashboard.pdf
     │
     ├── Dataset/
     │   ├── admission.csv
